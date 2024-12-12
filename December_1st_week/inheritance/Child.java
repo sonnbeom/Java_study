@@ -3,8 +3,12 @@ package December_1st_week.inheritance;
 public class Child extends Parent{
     int age;
 
+//    public Child(String name, int age) {
+//        this.age = age;
+//        super(name);
+//        this.age = age;
+//    }
     public Child(String name, int age) {
-        this.age = age;
         super(name);
         this.age = age;
     }
