@@ -1,4 +1,4 @@
-package December_1st_week.inheritance;
+package December_1st_week.inheritance.상속;
 
 public class Parent {
     String name;
